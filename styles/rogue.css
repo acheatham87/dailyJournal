@@ -1,0 +1,46 @@
+body {
+    font-family: 'Hubballi', cursive;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+
+.welcomeMessage {
+    display: flex;
+    justify-content: center;
+}
+
+.panels {
+    display: flex;
+    flex-direction: column;
+    height: 400px;
+}
+
+.panels .entryPanel {
+    height: 70%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.panels .loggedPanel {
+    height: 30%;
+    margin: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.panels .panelTitle {
+    text-decoration: underline;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}

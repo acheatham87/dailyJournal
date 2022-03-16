@@ -1,0 +1,1 @@
+<img src="/imgages/journalWireFrame.png" alt="firstWireFrame">

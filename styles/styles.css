@@ -1,0 +1,19 @@
+.jDate {
+    display: flex;
+    flex-direction: column;
+}
+
+.cCovered {
+    display: flex;
+    flex-direction: column;
+}
+
+.jEntry {
+    display: flex;
+    flex-direction: column;
+}
+
+.mDay {
+    display: flex;
+    flex-direction: column;
+}
