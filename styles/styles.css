@@ -1,3 +1,11 @@
+body {
+    font-family: 'Hubballi', cursive;
+}
+
+main {
+    margin-bottom: -15px;
+}
+
 .jDate {
     display: flex;
     flex-direction: column;
@@ -16,4 +24,22 @@
 .mDay {
     display: flex;
     flex-direction: column;
+}
+
+.navigation {
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: black solid 5px;
+}
+
+.footer {
+    background-color: darkgoldenrod;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-top: black solid 5px;
 }
